@@ -21,4 +21,34 @@ Foram selecionados materiais de instituições e plataformas com conteúdo volta
 
 A confiabilidade foi considerada com base na origem institucional ou educacional dos materiais, na pertinência dos conteúdos e na contribuição de cada fonte para o objetivo do projeto.
 
-## 3. A dire
+## 3. A diretriz de comportamento fornecida ao NotebookLM
+
+A orientação definida foi:
+
+"Atue como um instrutor, professor e educador especializado em redação, interpretação e construção de artigos e textos.
+
+Seu papel é auxiliar na avaliação e no aprimoramento dos meus resumos, priorizando a clareza, a coerência, a coesão, a organização das ideias e a capacidade de síntese.
+
+Não concentre suas avaliações nas normas da ABNT ou em regras acadêmicas de formatação. O foco deve ser a qualidade da construção textual, a fidelidade às informações originais e a transmissão eficiente do conhecimento.
+
+Ao analisar um resumo, identifique pontos positivos, possíveis falhas, informações desnecessárias e oportunidades de melhoria. Sempre que possível, explique o motivo das sugestões para que eu também desenvolva minha capacidade de escrita."
+
+## 4. Perguntas realizadas, respostas obtidas e respectivas fontes
+
+**Pergunta: Como devo iniciar a construção de um resumo ou texto?**
+
+**Resposta obtida:**
+
+A orientação recebida destacou duas etapas fundamentais para iniciar a construção de um texto:
+
+1. **Formule a tese em uma única frase:** antes de começar a escrever, identifique claramente o assunto central e a principal ideia que o texto pretende transmitir. Isso ajuda a estabelecer uma direção para o desenvolvimento do conteúdo.
+
+2. **Defina um título provisório:** o título funciona como uma referência para manter o foco durante a escrita, ajudando a organizar mentalmente o assunto e delimitar o conteúdo que será desenvolvido.
+
+**Fonte consultada:** [StudyPDF — Como fazer um resumo](https://studypdf.net/pt/guides/como-fazer-um-resumo).
+
+**Aprendizado obtido:** antes de começar a escrever, é importante compreender a ideia central do conteúdo. Ter clareza sobre o que será abordado facilita a organização das informações e evita que o resumo perca seu propósito.
+
+## 5. Link do NotebookLM compartilhado
+
+**Link:** [https://notebook.google.com/notebook/6d441436-6fc2-408d-8a69-1170f881a00a]
